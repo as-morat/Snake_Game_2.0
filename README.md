@@ -27,7 +27,6 @@ A classic Snake game implementation with score tracking, pause functionality, an
 
 ## Screenshots
 
-|-----------|-----------|
 | ![image](https://github.com/user-attachments/assets/df867743-0ca8-40fd-923f-e5943affabbe)
  | ![image](https://github.com/user-attachments/assets/1d96fa9b-61a8-43e0-957f-efc835e5a2e3)
  |
