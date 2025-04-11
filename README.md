@@ -6,12 +6,9 @@ A classic Snake game built with Java Swing, featuring multiple difficulty levels
 
 | Game State          | Screenshot                                                                 |
 |---------------------|----------------------------------------------------------------------------|
-| **Main Menu**       | ![Start](https://github.com/user-attachments/assets/f8d39572-11e3-416b-ac46-3b1e28d40cbb)
- |
-| **Game Paused**     | ![Paused](https://github.com/user-attachments/assets/0a25e7f3-7c01-4dc9-ab46-fe314dff5291)
- |
-| **Game Over**       | ![Over](https://github.com/user-attachments/assets/1ffacbd2-10c5-4a6b-b65e-24ea3d6a15c0)
- |
+| **Main Menu**       | ![Start](https://github.com/user-attachments/assets/f8d39572-11e3-416b-ac46-3b1e28d40cbb) |
+| **Game Paused**     | ![Paused](https://github.com/user-attachments/assets/0a25e7f3-7c01-4dc9-ab46-fe314dff5291) |
+| **Game Over**       | ![Over](https://github.com/user-attachments/assets/1ffacbd2-10c5-4a6b-b65e-24ea3d6a15c0) |
 
 ## Features
 
